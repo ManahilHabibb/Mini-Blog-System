@@ -1,2 +1,3 @@
-# NMB
-Bank Record System In Java
+# Mini Blog System
+DSA Project
+
